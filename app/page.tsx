@@ -1,4 +1,7 @@
 import Image from "next/image";
+import { useSorobanReact } from "@soroban-react/core";
+import * as StellarSdk from "@stellar/stellar-sdk";
+import { useRegisteredContract } from "@soroban-react/contracts";
 
 export default function Home() {
   return (

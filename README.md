@@ -42,7 +42,7 @@ Twilight leverages the Stellar blockchain to ensure secure, fast, and low-cost t
    
 4. *Economic Rewards:* Users earn tokens for their energy production, which can be traded or redeemed, providing financial incentives for green energy adoption.
 
-![Twilight workflow](./public/TwilightFlow.jpg)
+![Twilight workflow](./public/twilight.jpg)
 
 ## Smart Contract Functions
 

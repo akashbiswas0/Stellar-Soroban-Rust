@@ -96,6 +96,7 @@ Twilight leverages the Stellar blockchain to ensure secure, fast, and low-cost t
 - Checks for and handles expired options in the contract.
 
 # Deployed Contract (Stellar Testnet)
+- deployed contract using Soroban CLI
 
 # Arduino Setup
 1. Download Arduino Modules.
